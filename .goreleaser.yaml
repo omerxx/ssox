@@ -37,7 +37,7 @@ changelog:
 brews:
 - name: ssox
   homepage: https://github.com/omerxx/ssox
-  tap:
+  repository:
     owner: omerxx
     name: homebrew-tools
 
